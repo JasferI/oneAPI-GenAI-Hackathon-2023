@@ -1,0 +1,10 @@
+TECH DIVAS
+Team lead: keerthana
+Team members: Jasfer
+              Sri Devi
+
+problem statement : Multi model mental health assessment
+
+The proposed solution integrates NLP, CV, and voice recognition to create a comprehensive mental health assessment system using Intel oneAPI. 
+Analyzing interviews, written responses, facial expressions, body language, and voice inputs, it provides insights into cognitive patterns and emotions. Additionally, a predefined avatar enhances user engagement, enriching the interface with basic blinking and lip movement. 
+This Intel oneAPI interactive platform facilitates precise diagnostics and personalized treatment planning for mental health professionals, while also providing valuable support and guidance for users.
